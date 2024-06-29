@@ -1,4 +1,5 @@
 {
+  "about": "Om",
   "account": "Konto",
   "account_settings": "Konto Innstillinger",
   "acknowledge": "Bekreft",
@@ -6,6 +7,7 @@
   "actions": "Handlinger",
   "active": "Aktiv",
   "activity": "Aktivitet",
+  "activity_changed": "Aktiviteten er {enabled, select, true {aktivert} other {deaktivert}}",
   "add": "Legg til",
   "add_a_description": "Legg til beskrivelse",
   "add_a_location": "Legg til sted",
@@ -21,6 +23,9 @@
   "add_to": "Legg til...",
   "add_to_album": "Legg til album",
   "add_to_shared_album": "Legg til delt album",
+  "added_to_archive": "Lagt til i arkiv",
+  "added_to_favorites": "Lagt til i favoritter",
+  "added_to_favorites_count": "Lagt til {count} i favoritter",
   "admin": {
     "add_exclusion_pattern_description": "Legg til ekskluderingsmønstre. Globbing med *, ** og ? støttes. For å ignorere alle filer i en hvilken som helst mappe som heter \"Raw\", bruk \"**/Raw/**\". For å ignorere alle filer som slutter på \".tif\", bruk \"**/*.tif\". For å ignorere en absolutt filplassering, bruk \"/filbane/til/ignorer/**\".",
     "authentication_settings": "Autentiserings innstillinger",
